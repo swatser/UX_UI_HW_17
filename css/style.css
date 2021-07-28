@@ -1,6 +1,8 @@
 .inline-block {
     display: inline-block;
     vertical-align: top;
+    background-color: #373738;
+    color: white;
 }
 
 .logo {
@@ -11,6 +13,8 @@
 .nav {
     width: 73%;
     padding: 1%;
+    background-color: #373738;
+    color: white;
 }
 
 .ul {
@@ -22,7 +26,7 @@
     text-align: center;
 }
 
-.hero {
+.div {
     height: 600px;
     padding: 25px;
 }
